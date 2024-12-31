@@ -16,7 +16,8 @@
 
 ****OLYMPICS DATA ANALYTICS PROJECT****
 
-![Screenshot 2024-12-31 150348](https://github.com/user-attachments/assets/8f932330-5ff8-4da3-a7dc-1acb925c9647)
+![Screenshot 2024-12-31 155846](https://github.com/user-attachments/assets/c9fb57ea-8c90-477a-abd6-40baa325d26a)
+
 
 
 
